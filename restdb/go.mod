@@ -1,4 +1,4 @@
-module github.com/mactsouk/restdb
+module github.com/Educative-Content/Mastering-Go/tree/main/restdb
 
 go 1.16
 
